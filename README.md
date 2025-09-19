@@ -1,4 +1,4 @@
-# DATA-ANALYSIS-PYTHON-PROJECT---BLINKIT-ANALYSIS
+# DATA-ANALYSIS-PYTHON-PROJECT-BLINKIT-ANALYSIS
 This project is a data analysis case study on Blinkit (formerly Grofers), built using Python. The notebook demonstrates the complete data analysis workflow, including:<br>
 **- Data Import & Cleaning** – Loading raw dataset, handling missing values, and preparing data for analysis.<br>
 **- Exploratory Data Analysis (EDA)** – Understanding the dataset with descriptive statistics and visualizations. <br>
